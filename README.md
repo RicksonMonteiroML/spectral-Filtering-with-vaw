@@ -42,8 +42,8 @@ This repository aims to provide both:
 a practical implementation of spectral filtering using VAW (Vovk-Azoury-Warmuth) algorithm;
 and an educational resource for understanding modern online control methods.
 
-## Authors
+# Authors
 
-############ - ############
-############ - ############
-Rickson Gomes Monteiro - M.Sc. Student in Robotics Engineering
+- Bismark Brandi Sigolo — M.Sc. Student in Robotics Engineering
+- Jonas Tobias Ulbrich — Ph.D. Student in Robotics Engineering
+- Rickson Gomes Monteiro — M.Sc. Student in Robotics Engineering
